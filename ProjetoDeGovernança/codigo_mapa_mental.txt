@@ -1,0 +1,109 @@
+Primeira versão do mapa mental :
+
+@mapa mental inicial
+
+size:40color:redEstratégias de TI para a TechNet
+** size:30color:blueMissão e Visão da Organização
+*** size:25color:greenMissão
+**** size:20color:orangeFornecer soluções tecnológicas inovadoras e personalizadas que impulsionam a transformação digital e o sucesso dos nossos clientes
+*** size:25color:greenVisão
+**** size:20color:orangeSer reconhecida como líder global em soluções de automação e inovação tecnológica até 2030
+*** size:25color:greenMapeamento dos Objetivos Estratégicos de TI
+**** size:20color:orangeMelhorar a eficiência operacional dos clientes
+**** size:20color:orangeAumentar a satisfação do cliente
+**** size:20color:orangeExpandir a presença global
+**** size:20color:orangeLiderar a inovação em soluções tecnológicas
+** size:30color:blueDesenvolvimento do Plano de Entrega de Valor
+*** size:25color:greenContribuição da TI para a Entrega de Valor
+**** size:20color:orangeFoco em Valor
+**** size:20color:orangeOtimização de Processos
+**** size:20color:orangeAutomatização de Serviços
+**** size:20color:orangeAnálise de Dados para Decisões Estratégicas
+**** size:20color:orangeSegurança da Informação
+**** size:20color:orangeSuporte à Inovação
+*** size:25color:greenPrincipais Entregáveis ​​de TI
+**** size:20color:orangeInfraestrutura de Rede Escalável
+**** size:20color:orangePlataforma de Automação de Serviços
+**** size:20color:orangeSistema de Monitoramento e Análise de Rede
+** ** size:20color:orangeSoluções de Segurança de Rede
+**** size:20color:orangePainéis de Controle para Gestão de Serviços
+**** size:20color:orangePainéis de Desempenho e Relatórios
+
+** tamanho:30cor:azulGestão de Riscos
+*** tamanho:25cor:verdeIdentificação dos Riscos Associados ao Projeto de TI
+**** tamanho:20cor:orangeRiscos de Segurança
+**** tamanho:20cor:orangeRiscos de Conformidade
+**** size:20color:orangeRiscos de Continuidade do Negócio
+**** size:20color:orangeRiscos Operacionais
+*** size:25color:greenProposta de Planos de Mitigação
+**** size:20color:orangeSegurança da Informação
+**** size:20color: orangeBackup e Recuperação de Desastres
+**** size:20color:orangeTreinamento e Conscientização
+**** size:20color:orangeMonitoramento Contínuo
+*** size:25color:greenIndicadores de Conteúdo
+**** size:20color:orangeNúmero de Incidentes de Segurança
+* *** tamanho:20cor:laranjaTempo de Resposta a Incidentes
+**** tamanho:20cor:laranjaNúmero de Riscos Mitigados
+
+** size:30color:blueMensuração de Desempenho
+*** size:25color:greenKPIs
+**** size:20color:orangeNível de cumprimento de SLAs
+**** size:20color:orangeTaxa de sucesso de projetos de TI
+**** size :20color:orangeSatisfação dos usuários
+**** size:20color:orangeDisponibilidade de sistemas críticos
+@endmindmap
+
+Segunda versão do mapa mental:
+
+@mapa mental inicial
+
+size:40color:#FF4500Estratégias de TI para o TechNet
+** size:30color:#1E90FFMissão e Visão da Organização
+*** size:25color:#32CD32Missão
+**** size:20color:#FFD700Fornecer soluções tecnológicas inovadoras e personalizadas que impulsionam a transformação digital e o sucesso dos nossos clientes
+*** size:25color:#32CD32Visão
+**** size:20color:#FFD700Ser reconhecida como líder global em soluções de automação e inovação tecnológica até 2030
+*** size:25color:#32CD32Mapeamento dos Objetivos Estratégicos de TI
+**** size:20color:#FFD700Melhorar a eficiência operacional dos clientes
+**** size:20color:#FFD700Aumentar a satisfação do cliente
+**** size:20color:#FFD700Expandir a presença global
+**** tamanho:20cor:#FFD700Liderar a inovação em soluções tecnológicas
+** tamanho:30cor:#1E90FFDesenvolvimento do Plano de Entrega de Valor
+*** tamanho:25cor:#32CD32Contribuição da TI para a Entrega de Valor
+**** tamanho:20cor:#FF69B4Foco em Valor
+**** tamanho:20cor: #FF69B4Otimização de Processos
+**** size:20color:#FF69B4Automatização de Serviços
+**** size:20color:#FF69B4Análise de Dados para Decisões Estratégicas
+**** size:20color:#FF69B4Segurança da Informação
+**** size:20color :#FF69B4Suporte à Inovação
+*** size:25color:#32CD32Principais Entregáveis ​​de TI
+**** size:20color:#FF69B4Infraestrutura de Rede Escalável
+**** size:20color:#FF69B4Plataforma de Automação de Serviços
+**** size:20color:#FF69B4Sistema de Monitoramento e Análise de Rede
+**** size:20color:#FF69B4Soluções de Segurança de Rede
+**** size:20color:#FF69B4Painéis de Controle para Gestão de Serviços
+**** size:20color: #FF69B4Dashboards de Desempenho e Relatórios
+
+** tamanho:30cor:#1E90FFGestão de Riscos
+*** tamanho:25cor:#32CD32Identificação dos Riscos Associados ao Projeto de TI
+**** tamanho:20cor:#FFA500Riscos de Segurança
+**** tamanho:20cor:#FFA500Riscos de Conformidade
+**** tamanho:20cor:#FFA500Riscos de Continuidade do Negócio
+**** tamanho:20cor:#FFA500Riscos Operacionais
+*** tamanho:25cor:#32CD32Proposta de Planos de Mitigação
+**** tamanho:20cor:#FFA500Segurança da Informação
+**** size:20color:#FFA500Backup e Recuperação de Desastres
+**** size:20color:#FFA500Treinamento e Conscientização
+**** size:20color:#FFA500Monitoramento Contínuo
+*** size:25color:#32CD32Indicadores de Conteúdo
+**** size:20color:#FFA500Número de Incidentes de Segurança
+**** size:20color:#FFA500Tempo de Resposta a Incidentes
+**** size:20color:#FFA500Número de Riscos Mitigados
+
+** tamanho:30cor:#1E90FFMensuração de Desempenho
+*** tamanho:25cor:#32CD32KPIs
+**** tamanho:20cor:#FF4500Nível de cumprimento de SLAs
+**** tamanho:20cor:#FF4500Taxa de sucesso de projetos de TI
+* *** size:20color:#FF4500Satisfação dos usuários
+**** size:20color:#FF4500Disponibilidade de sistemas críticos
+@endmindmap
